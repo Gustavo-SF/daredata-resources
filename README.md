@@ -1,6 +1,6 @@
 # Data Science Resources
 
-A collection of resources for aspiring data scientists.
+A collection of resources for data scientists.
 
 <br>
 
