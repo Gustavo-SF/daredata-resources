@@ -1,4 +1,4 @@
-# Data Science Resources
+# DareData Resources
 
 A collection of resources for data scientists.
 
