@@ -7,6 +7,7 @@ A collection of resources for data scientists.
 ## Table of Contents
 
 - [Courses](#courses)
+- [Books](#books)
 
 <br>
 
