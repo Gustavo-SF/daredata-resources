@@ -1,6 +1,6 @@
 # DareData Resources
 
-A collection of resources for data scientists.
+A collection of learning resources curated by the DareData network.
 
 <br>
 
