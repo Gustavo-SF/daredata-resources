@@ -8,6 +8,7 @@ A collection of learning resources curated by the DareData network.
 
 - [Courses](#courses)
 - [Books](#books)
+- [Repos](#repos)
 
 <br>
 
@@ -21,3 +22,12 @@ A collection of learning resources curated by the DareData network.
 | [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) | Coursera / DeepLearning.ai | Up to date version of the most famous Deep Learning MOOC, learn how to create your own Neural Networks. | 3 months | Intermediate | Free |
 
 ## Books
+
+| Name | By | Description | Category | Added by | Comments | 
+| :--- | :- | :---------- | :--- | :--------- | :---- |
+| [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) | Charles Duhigg | In The Power of Habit, business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed.  | Management&Business | Ivo | Great to understand how to build more powerful habits. If you are having trouble setting routines of work, you should give it a try! |
+
+## Repos
+| Name | By | Description | 
+| :--- | :- | :---------- | 
+| [DareData Foundations LP](https://github.com/DareData/lp-foundations) | DareData Engineering | Where Data Scientists go to get out of notebooks! |
